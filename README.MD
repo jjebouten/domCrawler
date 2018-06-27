@@ -1,0 +1,1 @@
+A simple linkcrawler with a query selector
